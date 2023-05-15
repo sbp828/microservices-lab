@@ -5,3 +5,4 @@ package com.example.kafka; public class EventProducer {}
 // incremental change 11
 // incremental change 19
 // incremental change 21
+// incremental change 22
